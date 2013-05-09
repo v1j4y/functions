@@ -1,0 +1,5 @@
+gaussian.irp.f            : double precision          :: alpha                     
+gaussian.irp.f            : double precision, allocatable :: gaussian                  (npoints)
+points.irp.f              : integer                   :: npoints                   
+gaussian.irp.f            : double precision          :: order                     
+yrange.irp.f              : double precision, allocatable :: yrange                    (npoints)
